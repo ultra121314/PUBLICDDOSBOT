@@ -1107,7 +1107,7 @@ def send_help_message(message):
 @bot.message_handler(commands=['mute'])
 def mute_user(message):
     # Check if the message is from the owner
-    if message.from_user.id == 7933339379:  # Replace with your owner ID
+    if message.from_user.id == 7210717311:  # Replace with your owner ID
         user_to_mute_username = message.text.split(' ', 1)
 
         if len(user_to_mute_username) > 1:
