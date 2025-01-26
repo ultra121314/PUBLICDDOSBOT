@@ -17,7 +17,7 @@ admin_id = ["7210717311"]
 LOG_FILE = "log.txt"
 
 # Channel username that users need to join (without '@')
-REQUIRED_CHANNEL = "DARKCRACKS"
+REQUIRED_CHANNEL = "DARKXCRACKS"
 
 # Dictionary to track the last attack time for users
 last_attack_time = {}
